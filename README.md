@@ -1,19 +1,16 @@
 # 24HourGlass
 
-A digital abacus-style clock visualization using Streamlit that represents time in an elegant and unique way.
+A digital abacus-style clock visualization using Streamlit that represents time.
 
 ## Overview
 
-24HourGlass is a web application that displays the current time using an abacus-inspired visualization. Each time unit (hours, minutes, seconds) is represented as a set of beads on weighted columns, creating a visually novel and functional timepiece.
-
-**Note:** This project was "vibe coded" - meaning it was created in a flow state with an emphasis on creative expression rather than being meticulously planned and hand-coded from scratch.
+24HourGlass is a web application that displays the current time using an abacus-inspired visualization. Each time unit (hours, minutes, seconds) is represented as a set of beads on weighted columns, creating a novel and functional timepiece.
 
 ## Features
 
 - Real-time clock display updating every second
 - Abacus-style visualization for hours, minutes, and seconds
 - Timezone selection for viewing time across different regions
-- Elegant gold and dark color scheme
 
 ## How It Works
 
