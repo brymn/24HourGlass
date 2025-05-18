@@ -2,8 +2,6 @@
 
 A digital abacus-style clock visualization using Streamlit that represents time in an elegant and unique way.
 
-![24HourGlass Screenshot](https://via.placeholder.com/800x400?text=24HourGlass+Screenshot)
-
 ## Overview
 
 24HourGlass is a web application that displays the current time using an abacus-inspired visualization. Each time unit (hours, minutes, seconds) is represented as a set of beads on weighted columns, creating a visually novel and functional timepiece.
@@ -30,7 +28,7 @@ Active beads are displayed in orange, while inactive beads are in gray.
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/24hourglass.git
+git clone https://github.com/brymn/24HourGlass.git
 cd 24hourglass
 ```
 
@@ -54,10 +52,6 @@ The application will open in your default web browser. Use the timezone selector
 - Streamlit
 - streamlit-autorefresh
 - pytz
-
-## License
-
-[Add your license information here]
 
 ## Acknowledgments
 
